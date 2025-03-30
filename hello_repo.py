@@ -1,3 +1,3 @@
 def hello_repo():
-    print("Hello Repo!")
+    print("Hello Repo")
 hello_repo()
